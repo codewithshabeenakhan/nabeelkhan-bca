@@ -5,16 +5,22 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/Y6XJ9pZ.gif" width="300" alt="Soft Islamic Background"/>
+  <!-- Animation -->
+  <img src="https://i.imgur.com/Y6XJ9pZ.gif" width="280" alt="Islamic Animation"/>
+</p>
+
+<p align="center">
+  <!-- Static Background Image -->
+  <img src="https://images.unsplash.com/photo-1584555684040-bad07f46a21b" width="320" alt="Islamic Student Background"/>
 </p>
 
 ---
 
 ## 🎓 About Me
-- 🌸 **Student | Learning step by step**
-- 📚 Currently studying Computer Science
-- 🌙 Balancing Deen & Dunya
-- ✨ Believe in patience and growth
+- 🌸 Student | Learning step by step  
+- 📚 Interested in Computer Science  
+- 🌙 Balancing Deen & Dunya  
+- ✨ Growth with patience
 
 ---
 
@@ -24,16 +30,10 @@
 
 ---
 
-## 📘 What I’m Learning
-- Basics of Programming  
+## 📘 Currently Learning
+- Programming basics  
 - Web fundamentals  
-- Problem solving  
-- Git & GitHub (beginner)
-
----
-
-## 🤍 Daily Reminder
-> **“Allah is gentle with His servants.”** *(Qur'an 42:19)*
+- Git & GitHub  
 
 ---
 
