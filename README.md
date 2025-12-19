@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,20&height=250&section=header&text=Shabeena%20Khan&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20AI%20Enthusiast%20•%20Tech%20for%20Good&descSize=20&descAlignY=55" width="100%"/>
 </h1>
 
-### 🎓 Final Bachelor of Computer Applications Student | 💻 Web Developer
+### 🎓Final Year Bachelor of Computer Applications Student | 💻 Web Developer
 ### 📍 Saharanpur, Uttar Pradesh, India
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&lines=Passionate+Web+Developer;Full+Stack+Developer;Machine+Learning+Enthusiast;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
