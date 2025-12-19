@@ -100,16 +100,35 @@ Full-stack applications
 
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="60">
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nabeelkhan-bca&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=f75c7e&icon_color=f75c7e" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabeelkhan-bca&theme=radical&hide_border=true&background=1a1b27&ring=f75c7e&fire=f75c7e&currStreakLabel=f75c7e" alt="GitHub Streak" height="180"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeelkhan-bca&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=f75c7e" alt="Top Languages" height="180"/>
-</p>
+<table>
+<tr>
+<td align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nabeelkhan-bca&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=f75c7e&icon_color=f75c7e" alt="GitHub Stats" />
+</td>
+<td align="center">
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nabeelkhan-bca&theme=radical&hide_border=true&background=1a1b27&ring=f75c7e&fire=f75c7e&currStreakLabel=f75c7e" alt="GitHub Streak" />
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeelkhan-bca&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=f75c7e" alt="Top Languages" />
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nabeelkhan-bca&theme=radical&bg_color=1a1b27&hide_border=true&area=true&custom_title=My%20Contribution%20Activity)
 
 </div>
 
@@ -158,43 +177,52 @@ Full-stack applications
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect With Me
 
 <div align="center">
 
-<p>Feel free to reach out for collaborations, discussions, or just to say <b>Assalamu Alaikum</b>! ☪️</p>
+<p>✨ <b>Let's connect and create something amazing together!</b> ✨</p>
 
-<p align="center">
-  <a href="https://github.com/nabeelkhan-bca">
-    <img src="https://img.shields.io/badge/🔗_All_My_Links-000000?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
-  </a>
-  <a href="mailto:your.smartbcanotes@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/nabeelkhan-bca">
-    <img src="https://img.shields.io/badge/💻_View_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shabeenakhxn">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="http://www.youtube.com/@Nabeeltech7860">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=JazakAllah%20Khair!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72" width="100%"/>
+<table>
+<tr>
+<td align="center">
+<a href="mailto:smartbcanotes@gmail.com">
+  <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</td>
+<td align="center">
+<a href="https://www.linkedin.com/in/shabeenakhxn">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/nabeelkhan-bca">
+  <img src="https://img.shields.io/badge/🐱_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</td>
+</tr>
+<tr>
+<td align="center">
+<a href="http://www.youtube.com/@Nabeeltech7860">
+  <img src="https://img.shields.io/badge/🎬_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+</td>
+<td align="center">
+<a href="#">
+  <img src="https://img.shields.io/badge/📝_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+</a>
+</td>
+<td align="center">
+<a href="#">
+  <img src="https://img.shields.io/badge/💬_Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
+</a>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
-
-<div align="center">
 
 ### 💭 Quote of the Day
 
