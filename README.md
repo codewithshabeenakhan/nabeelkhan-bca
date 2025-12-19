@@ -182,9 +182,6 @@ Full-stack applications
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithshabeenakhan&custom_title=Shabeena's%20Contribution%20Graph&bg_color=0D1117&color=FF69B4&line=FF69B4&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
 
-## 🏆 Achievements & Organizations
-
-<div align="center">
 
 ### 🏅 GitHub Achievements
 
@@ -224,6 +221,8 @@ Full-stack applications
 </div>
 
 ---
+
+<div align="center">
 
 ## 📫 Connect With Me
 
@@ -271,14 +270,17 @@ Full-stack applications
 </div>
 
 ---
+<div align="center">
 
 ### 💭 Quote of the Day
+<div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Learning%20with%20patience%20%7C%20Trusting%20Allah%20%7C%20Growing%20every%20day&author=Shabeena%20Khan" alt="Quote"/>
 
 <p><i>"The best among you are those who learn and teach others"</i></p>
 
 ---
+
 <p>📫 How to reach me:</p>
 <div align="center">
     <a href="mailto:smartbcanotes@gmail.com">
